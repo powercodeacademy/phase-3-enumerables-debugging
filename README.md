@@ -259,7 +259,7 @@ Now, let's test out our method by running the file once more with
 `ruby reverse_each_word.rb`:
 
 ```console
-$ ruby reverse_each_word.rb
+ruby reverse_each_word.rb
 ...
 ```
 
@@ -288,7 +288,7 @@ Now that we've got some terminal output, we can see if the method does indeed
 produce the desired return value:
 
 ```console
-$ ruby reverse_each_word.rb
+ruby reverse_each_word.rb
 olleH ,ereht dna woh era ?uoy
 ```
 
